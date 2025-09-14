@@ -5,7 +5,7 @@ I am a Computer Science Master student with a passion for cybersecurity and a ye
 
 ## Objective
 
-Originally a Civil Engineering student, I discovered my passion for computer science through the intricate and compelling world of cybersecurity. This sparked a deep interest in all things cyber, motivating me to pursue a career in the field. I am now excited to transition into cybersecurity, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+Originally a Civil Engineering student, I discovered my passion for computer science through the intricate and compelling world of cybersecurity. This sparked a deep interest in all things cyber, motivating me to pursue a career in the field. I am now excited to transition into cybersecurity, and become a cybersecurity expert !
 
 ## Projects
 - [SOC Automation Project]()
