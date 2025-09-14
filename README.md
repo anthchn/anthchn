@@ -9,16 +9,10 @@ Originally a Civil Engineering student, I discovered my passion for computer sci
 
 ## Projects
 - [SOC Automation Project]()
-- Advanced Keylogger
-- Deezer Playlist Downloader
-- Advanced Directory Management
-- Simple Password manager
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SOC Automation Project                        | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-
+- [Advanced Keylogger]()
+- [Deezer Playlist Downloader]()
+- [Advanced Directory Management]()
+- [Simple Password manager](https://github.com/anthchn/My-Projects/tree/main/Simple-Password-Manager)
 
 ## Tools
 
